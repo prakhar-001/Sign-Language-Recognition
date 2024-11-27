@@ -1,0 +1,20 @@
+0 A
+1 B
+2 C
+3 D
+4 E
+5 F
+6 L
+7 M
+8 O
+9 P
+10 R
+11 S
+12 T
+13 V
+14 W
+15 X
+16 Y
+17 Helu
+18 I LOVE YOU
+19 Yes
